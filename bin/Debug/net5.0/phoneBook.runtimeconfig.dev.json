@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Menna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Menna\\.nuget\\packages"
+    ]
+  }
+}
